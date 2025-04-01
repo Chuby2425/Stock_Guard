@@ -52,7 +52,6 @@ namespace Capa_datos
             return lista;
         }
 
-
         //Procedimiento alamacenado de registrar Categoria 
         public int Registrar(Categoria obj, out string Mensaje)
         {
