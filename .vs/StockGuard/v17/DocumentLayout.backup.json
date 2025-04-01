@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "V:\\Progra Jason\\StockGuard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3168F5-9EBC-44A1-970B-36898D695D9A}|WindowsFormsApp1\\CapaPresentacion.csproj|v:\\progra jason\\stockguard\\windowsformsapp1\\paginaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3168F5-9EBC-44A1-970B-36898D695D9A}|WindowsFormsApp1\\CapaPresentacion.csproj|solutionrelative:windowsformsapp1\\paginaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3168F5-9EBC-44A1-970B-36898D695D9A}|WindowsFormsApp1\\CapaPresentacion.csproj|V:\\Progra Jason\\StockGuard\\windowsformsapp1\\paginaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E3168F5-9EBC-44A1-970B-36898D695D9A}|WindowsFormsApp1\\CapaPresentacion.csproj|solutionrelative:windowsformsapp1\\paginaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaginaPrincipal.cs",
+              "DocumentMoniker": "V:\\Progra Jason\\StockGuard\\WindowsFormsApp1\\PaginaPrincipal.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\PaginaPrincipal.cs",
+              "ToolTip": "V:\\Progra Jason\\StockGuard\\WindowsFormsApp1\\PaginaPrincipal.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\PaginaPrincipal.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAowEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T06:05:54.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaginaPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "V:\\Progra Jason\\StockGuard\\WindowsFormsApp1\\PaginaPrincipal.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\PaginaPrincipal.cs",
+              "ToolTip": "C:\\Users\\abikr\\source\\repos\\StockGuard\\WindowsFormsApp1\\PaginaPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T06:02:08.896Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

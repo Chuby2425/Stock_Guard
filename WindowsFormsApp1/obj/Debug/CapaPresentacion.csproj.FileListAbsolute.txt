@@ -1,0 +1,124 @@
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PaginaPrincipal.resources
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\Capa_entidad.dll
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\Capa_negocio.dll
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\Capa_datos.dll
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\Capa_entidad.pdb
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\Capa_negocio.pdb
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\Capa_datos.pdb
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmUsuario.resources
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRegistrarVenta.resources
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCategoria.resources
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmProducto.resources
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmReportes.resources
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\ClosedXML.dll
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\ClosedXML.Parser.dll
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\ExcelNumberFormat.dll
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\RBush.dll
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\SixLabors.Fonts.dll
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\ClosedXML.pdb
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\ClosedXML.xml
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\ClosedXML.Parser.xml
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\ExcelNumberFormat.xml
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\RBush.xml
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\SixLabors.Fonts.xml
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDetalleEntradas.resources
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmREntrada.resources
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRSalidas.resources
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDetalleSalidas.resources
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Modales.MdProductos.resources
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmReporteEntrada.resources
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmReporteSalidas.resources
+C:\Users\abikr\source\repos\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Acercade.resources
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.dll
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\Capa_datos.dll
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\Capa_entidad.dll
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\Capa_negocio.dll
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\ClosedXML.dll
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\ClosedXML.Parser.dll
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.dll
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\ExcelNumberFormat.dll
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\itextsharp.dll
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\itextsharp.xmlworker.dll
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.dll
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\RBush.dll
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\SixLabors.Fonts.dll
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\System.Memory.dll
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\Capa_datos.pdb
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\Capa_entidad.pdb
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\Capa_negocio.pdb
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.xml
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\ClosedXML.pdb
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\ClosedXML.xml
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\ClosedXML.Parser.xml
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.xml
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\ExcelNumberFormat.xml
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\itextsharp.xml
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.xml
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\RBush.xml
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\SixLabors.Fonts.xml
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\System.Memory.xml
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+V:\Progra Jason\StockGuard\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+V:\Progra Jason\StockGuard\WindowsFormsApp1\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+V:\Progra Jason\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Acercade.resources
+V:\Progra Jason\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCategoria.resources
+V:\Progra Jason\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDetalleEntradas.resources
+V:\Progra Jason\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmREntrada.resources
+V:\Progra Jason\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmProducto.resources
+V:\Progra Jason\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRegistrarVenta.resources
+V:\Progra Jason\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmReporteEntrada.resources
+V:\Progra Jason\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmReportes.resources
+V:\Progra Jason\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmReporteSalidas.resources
+V:\Progra Jason\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmUsuario.resources
+V:\Progra Jason\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRSalidas.resources
+V:\Progra Jason\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDetalleSalidas.resources
+V:\Progra Jason\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+V:\Progra Jason\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Modales.MdProductos.resources
+V:\Progra Jason\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PaginaPrincipal.resources
+V:\Progra Jason\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+V:\Progra Jason\StockGuard\WindowsFormsApp1\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+V:\Progra Jason\StockGuard\WindowsFormsApp1\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+V:\Progra Jason\StockGuard\WindowsFormsApp1\obj\Debug\CapaPres.61CA7C38.Up2Date
+V:\Progra Jason\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+V:\Progra Jason\StockGuard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

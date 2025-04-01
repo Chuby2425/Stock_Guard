@@ -1,0 +1,9 @@
+C:\Users\abikr\source\repos\StockGuard\Capa_datos\obj\Debug\Capa_datos.csproj.AssemblyReference.cache
+C:\Users\abikr\source\repos\StockGuard\Capa_datos\obj\Debug\Capa_datos.csproj.CoreCompileInputs.cache
+C:\Users\abikr\source\repos\StockGuard\Capa_datos\bin\Debug\Capa_datos.dll
+C:\Users\abikr\source\repos\StockGuard\Capa_datos\bin\Debug\Capa_datos.pdb
+C:\Users\abikr\source\repos\StockGuard\Capa_datos\bin\Debug\Capa_entidad.dll
+C:\Users\abikr\source\repos\StockGuard\Capa_datos\bin\Debug\Capa_entidad.pdb
+C:\Users\abikr\source\repos\StockGuard\Capa_datos\obj\Debug\Capa_datos.csproj.Up2Date
+C:\Users\abikr\source\repos\StockGuard\Capa_datos\obj\Debug\Capa_datos.dll
+C:\Users\abikr\source\repos\StockGuard\Capa_datos\obj\Debug\Capa_datos.pdb
